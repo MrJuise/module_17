@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7867a8a3-29a5-4c21-aa60-f242c72bbe06" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/backend/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/user.py" afterDir="false" />
+    <list default="true" id="7867a8a3-29a5-4c21-aa60-f242c72bbe06" name="Changes" comment="Homework 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.__init__.executor": "Run",
+    "Python.d40a8e999a47_.executor": "Run",
     "Python.task.executor": "Run",
     "Python.user.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -98,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732562242980</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Homework 2">
+      <option name="closed" value="true" />
+      <created>1732799828818</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732799828818</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +121,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <MESSAGE value="Homework 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 1" />
+    <MESSAGE value="Homework 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 2" />
   </component>
 </project>
